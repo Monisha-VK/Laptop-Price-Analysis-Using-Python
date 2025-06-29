@@ -26,7 +26,7 @@ Includes information on:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python (pandas, numpy)
 - Jupyter Notebook
 - Data Visualization: matplotlib, seaborn
