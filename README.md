@@ -1,17 +1,17 @@
 # Laptop-Price-Analysis-Using-Python
 Developed a regression model to predict laptop prices based on brand, RAM, and display specs, providing actionable insights for pricing in e-commerce and retail.
-# 💻 Laptop Price Analysis Using Python
+#  Laptop Price Analysis Using Python
 
 Developed a regression model to predict laptop prices based on brand, RAM, and display specs, providing actionable insights for pricing in e-commerce and retail.
 
 ---
 
-## 🎯 Objective
+## Objective
 Analyze a laptop dataset to identify key factors influencing prices and build a regression model to accurately predict laptop prices.
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 Includes information on:
 - Brand
 - RAM
@@ -35,7 +35,7 @@ Includes information on:
 
 ---
 
-## 📊 Key Steps
+##  Key Steps
 - **Data Preprocessing:**
   - Converted RAM, Weight, and Screen Size to numeric types.
   - Parsed screen resolution to calculate Pixels Per Inch (PPI).
@@ -58,7 +58,7 @@ Includes information on:
 
 ---
 
-## 💾 Model Saving
+##  Model Saving
 Trained model saved with pickle for future price predictions:
 ```python
 import pickle
